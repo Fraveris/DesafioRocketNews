@@ -13,9 +13,13 @@ body {
 }
 
 .imagem-lateral {
-    width: 100vh;
+    width: 50vw;
     height: 100vh;
     float: right;
+}
+
+.logo {
+    padding: 50px;
 }
 
 p {
